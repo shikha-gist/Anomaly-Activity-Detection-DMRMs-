@@ -12,3 +12,28 @@ Model | UCF-Crime | ShanghaiTech
 DMRMs | 81.9 | 68.5 
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/anomalous-event-recognition-in-videos-based/anomaly-detection-in-surveillance-videos-on)](https://paperswithcode.com/sota/anomaly-detection-in-surveillance-videos-on?p=anomalous-event-recognition-in-videos-based)
+
+
+
+## Citation
+Please cite the following BibTex: 
+<pre>
+@misc{@Article{app11031344,
+AUTHOR = {Dubey, Shikha and Boragule, Abhijeet and Gwak, Jeonghwan and Jeon, Moongu},
+TITLE = {Anomalous Event Recognition in Videos Based on Joint Learning of Motion and Appearance with Multiple Ranking Measures},
+JOURNAL = {Applied Sciences},
+VOLUME = {11},
+YEAR = {2021},
+NUMBER = {3},
+ARTICLE-NUMBER = {1344},
+URL = {https://www.mdpi.com/2076-3417/11/3/1344},
+ISSN = {2076-3417},
+DOI = {10.3390/app11031344}
+}
+</pre>
+
+If you find the paper and this repository helpful, please consider citing our paper [DMRMs](https://www.mdpi.com/2076-3417/11/3/1344). Thank you!
+
+
+## License
+This project is licensed under Machine Learning & Vision Laboratory (MLV Lab), GIST. 
